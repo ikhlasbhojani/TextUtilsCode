@@ -1,0 +1,19 @@
+.tArea:focus {
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.btn-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btn-container button {
+  width: 200px;
+}
+
+/* .btn {
+
+  } */
